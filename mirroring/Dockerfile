@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM golang:1.19.2@sha256:b850621230956a6d960d6d7cfaba6a8a2e8e245b230a928ef66aa0cfd065e229 as builder
+FROM golang:1.20.1@sha256:9911e9376e45de1ba865b16d878c0f7d063391fe4b7cedf39869874126741e62 as builder
 
 RUN mkdir /mirroring
 WORKDIR /mirroring
