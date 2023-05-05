@@ -7,7 +7,7 @@ require (
 	github.com/sigstore/rekor v0.12.2
 	github.com/sigstore/sigstore v1.4.4
 	github.com/spf13/viper v1.13.0
-	github.com/transparency-dev/merkle v0.0.1
+	github.com/transparency-dev/merkle v0.0.2
 )
 
 require (
